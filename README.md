@@ -1,7 +1,7 @@
 # 🎬 MovieExplorer
 
 MovieExplorer is a responsive movie discovery web application built with **React, Vite, and Tailwind CSS**. It uses the **TMDB API** to display real movie information, allowing users to explore trending and popular movies, search for movies, filter results, view movie details, watch trailers, and save their favorite movies.
-## img
+## 🖼️ MovieExplorer – Image Integration
 <img width="1037" height="383" alt="image" src="https://github.com/user-attachments/assets/0e6b6ed3-003f-4969-bb03-81167988bc16" /> 
 <img width="1058" height="411" alt="image" src="https://github.com/user-attachments/assets/c0f807ac-4f01-48fb-8484-620fc7d7230b" />
 <img width="1058" height="373" alt="image" src="https://github.com/user-attachments/assets/65690192-9588-448c-b46a-1f708f2c4a99" />
